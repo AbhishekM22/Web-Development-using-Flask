@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_url": "mysql+pymysql://root:@localhost/stunningcoders",
+    "prod_url": "mysql+pymysql://root:@localhost/stunningcoders",
+    "tw_url": "https://twitter.com/stunningcoders",
+    "fb_url": "https://facebook.com/stunningcoders",
+    "gh_url": "https://github.com/stunningcoders",
+    "blog_name": "Indian Railways",
+    "gmail-user": "abhishekmoharir2210@gmail.com",
+    "gmail-password": "asmb13004",
+    "about_text" : "Hello everyone ! In this blog you will get to know about one of the biggest railway network of the world , The Indian Railways..Please read the blog once . I know you will surely like the content ",
+
+    "no-of-posts": 4,
+    "login_image":"login.svg",
+    "admin_username" : "abhi",
+    "admin_password": "subscribenow",
+    "upload_location": "C:\\Users\\ABHISHEK MOHARIR\\PycharmProjects\\flaskproject\\static"
+  }
+}
